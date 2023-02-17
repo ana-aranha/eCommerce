@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/ana-aranha/eCommerce-front-StarBooks.git
+[submodule "eCommerce-back-StarBooks"]
+	path = eCommerce-back-StarBooks
+	url = https://github.com/ana-aranha/eCommerce-back-StarBooks
